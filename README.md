@@ -1,15 +1,12 @@
 # E-COMMERCE-PRODUCT-PAGE-DESIGN
 Figma 3d product page design
 
-
-
-
-
-
-
-
-
-
+**COMPANY** : CODTECH IT SOLUTIONS
+**NAME**: YOGESH KHANT
+**INTERN ID**: CTO4DN1944
+**DOMAIN**:: FIGMA WEB DEVELOPMENT
+**DURATION**: 6 WEEKS
+**MENTOR**: NEELA SANTOSH
 
 ### output
 ![Image](https://github.com/user-attachments/assets/39d9414a-2c75-45b3-8b35-9413de1bac92)
